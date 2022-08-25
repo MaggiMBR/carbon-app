@@ -1,8 +1,8 @@
 # Building a Carbon App with React 
 
 <p align="center">
-  <img src=""
-  alt="calculator" alt="Edit Building Page (screenshot)" height="300"
+  <img src="https://img.freepik.com/premium-photo/concept-depicting-issue-carbon-dioxide-emissions-its-impact-nature-form-pond-shape-co2-symbol-located-lush-forest-3d-rendering_533392-317.jpg?w=2000"
+  alt="carbon-image" alt="Edit Building Page (screenshot)" height="300"
 </p>
   
 Here you can find the link of the site: 
